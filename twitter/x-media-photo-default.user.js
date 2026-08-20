@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Open photos by default in the Twitter media tab
 // @namespace    https://x.com/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Videos now open by default in the Twitter media tab, so I'll make photos open by default instead.
 // @author       daizu-007
 // @match        https://x.com/*
